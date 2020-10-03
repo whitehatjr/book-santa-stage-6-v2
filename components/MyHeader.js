@@ -18,6 +18,7 @@ const MyHeader = props => {
         style: styles.title
       }}
       backgroundColor={"#6fc0b8"}
+      {...props}
     />
   );
 };

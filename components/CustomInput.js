@@ -22,7 +22,6 @@ const styles = StyleSheet.create({
     height: 55,
     borderWidth: 1.5,
     borderColor: "#fff",
-    fontSize: 20,
     alignItems: "center"
   }
 });
